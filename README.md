@@ -145,16 +145,32 @@ npm start
 ## Screenshots to Add
 
 Create screenshots and save them in `docs/screenshots/`:
+## Output Screenshots
 
-1. Register page
-2. Login page
-3. Dashboard
-4. Add transaction page
-5. Transaction list
-6. Category-wise chart
-7. Monthly spending chart
-8. Budget alert
-9. GitHub repository preview
+### Login Page
+![Login](output/login-page.png)
+
+### Register Page
+![Register](output/register-page.png)
+
+### Dashboard
+![Dashboard](output/dashboard.png)
+
+### Add Income
+![Add Income](output/add-income.png)
+
+### Add Expense
+![Add Expense](output/add-expense.png)
+
+### Budget Page
+![Budget](output/budget-page.png)
+
+### Charts
+![Charts](output/charts.png)
+
+### Final Output
+![Final Output](output/final-output.png)
+
 
 ## Interview Explanation
 
@@ -168,3 +184,9 @@ This is a full-stack Smart Expense Tracker Web App. Users can register, log in, 
 - Recurring expenses
 - Multi-currency support
 - Online deployment
+
+
+### Developed By
+**Atharv Vishnudas Bunde**
+Mechatronics Engineering Student
+
